@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar"
+import Contact from "@/components/Contact"
 import {TracingBeam} from "@/components/ui/tracing-beam";
 import { AuroraBackground } from "@/components/ui/aurora-background";
 import Projects from "@/components/Projects";
@@ -18,6 +19,10 @@ export default function Home() {
       <Projects/>
     </div>
       </TracingBeam>
+      </div>
+      <div className=
+          "flex flex-col w-full bg-zinc-50 dark:bg-zinc-900  text-slate-950 transition-bg">
+        <Contact/>
       </div>
    </>
   );
