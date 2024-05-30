@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tabler/icons": "^3.5.0",
     "clsx": "^2.1.1",
     "framer-motion": "^11.2.9",
     "next": "14.2.3",
