@@ -12,6 +12,14 @@ export default function Navbar() {
       link: "/about",
     },
     {
+      name: "Projects",
+      link: "/projects",
+    },
+    {
+      name: "Certificates",
+      link: "/certificates",
+    },
+    {
       name: "Contact",
       link: "/contact",
     },
