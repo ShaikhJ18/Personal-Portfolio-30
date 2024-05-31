@@ -6,7 +6,6 @@ import { cn } from "@/utils/cn";
 import {
   IconBrandGithub,
   IconBrandGoogle,
-  IconBrandOnlyfans,
   IconBrandLinkedin
 } from "@tabler/icons-react";
 

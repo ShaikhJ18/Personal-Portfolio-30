@@ -18,46 +18,21 @@ export default function About() {
       ),
     },
     {
-      title: "Hobbies",
+      title: "FreeCodeCamp",
       value: "services",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-blue-700 to-violet-900">
-          <p>Hobbies</p>
+          <p>FreeCodeCamp</p>
           <DummyContent />
         </div>
       ),
     },
     {
-      title: "Skills",
+      title: "Udemy",
       value: "playground",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-blue-700 to-violet-900">
-          <p>Skills</p>
-          <ul>
-            <li>HTML 5</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>Java</li>
-            <li>Python</li>
-            <li>C</li>
-            <li>R</li>
-            <li>C++</li>
-            <li>C#</li>
-            <li>SQL</li>
-          </ul>
-        </div>
-      ),
-    },
-    {
-      title: "Education",
-      value: "content",
-      content: (
-        <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-blue-700 to-violet-900">
-          <p>Education</p>
-          <ul>
-            <li>Erindale Secondary Schoo</li>
-            <li>University of Guelph</li>
-          </ul>
+          <p>Udemy</p>
         </div>
       ),
     },
